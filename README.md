@@ -1,23 +1,14 @@
-# Social Gaming Research Explorer
+# Social Gaming Thesaurus — expanded edition
 
-Interactive, study-based research thesaurus. Includes 8 summarized studies and 12 starter terms.
+Includes 18 full thesaurus headwords, 8 detailed study summaries, and both complete uploaded text compilations. All supplied SN, UF, BT, NT, RT, OP, IN, and CS fields are preserved in `thesaurus.json`.
 
-## Run locally
+## Update your existing Streamlit website
+1. Open your GitHub repository `social-gaming-thesaurus`.
+2. Upload and replace `app.py`, `requirements.txt`, `studies.json`, and `README.md`.
+3. Upload the NEW files `thesaurus.json`, `source_master_thesaurus.txt`, and `source_additional_notes.txt`.
+4. Commit changes. Streamlit should redeploy automatically.
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+All files must be in the repository root (not inside an extra folder).
 
-## Publish online
-
-1. Upload `app.py`, `studies.json`, and `requirements.txt` to a GitHub repository.
-2. Visit https://share.streamlit.io/ and sign in with GitHub.
-3. Select your repository, branch, and `app.py` as the entry point.
-4. Deploy and share the URL with collaborators.
-
-This starter app is not a shared live database. New entries added through the interface are session-only. Export the JSON and update the repository to persist changes. Avoid putting confidential or participant-level data in a public repository.
-
-## Research caveat
-
-All study entries are paraphrased from the user's supplied summaries and have not been independently checked against original articles. Verify citations, instruments, and page numbers before scholarly use.
+## Research caution
+These are user-provided research summaries. Verify author-year references, original definitions, measurement instruments, and proposed synonym relationships before scholarly use. The first website had eight detailed study records; additional studies are represented as source references in the 18 thesaurus entries and in the original source materials, not as independently extracted study records.

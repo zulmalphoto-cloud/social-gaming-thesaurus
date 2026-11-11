@@ -2,61 +2,60 @@ import json
 from pathlib import Path
 import pandas as pd
 import streamlit as st
-
-st.set_page_config(page_title='Social Gaming Research Explorer',page_icon='🎮',layout='wide')
-st.markdown('''<style>.block-container{padding-top:2rem;max-width:1250px}.stMetric{border:1px solid #e5e7eb;border-radius:12px;padding:12px}.small-note{color:#667085;font-size:0.87rem}</style>''',unsafe_allow_html=True)
-DATA=Path(__file__).with_name('studies.json')
-studies=json.loads(DATA.read_text(encoding='utf-8'))
+st.set_page_config(page_title='Social Gaming Thesaurus',page_icon='📚',layout='wide')
+BASE=Path(__file__).parent
+entries=json.loads((BASE/'thesaurus.json').read_text(encoding='utf-8'))
+studies=json.loads((BASE/'studies.json').read_text(encoding='utf-8'))
 COLORS={'Conceptual':'#7555A4','In-person':'#247C70','Digital':'#326D9B','Human-machine':'#A44970','Playfulness':'#AD682F','Context':'#536A38'}
-terms={
- 'Artificial social entity':('Human-machine','Bot, NPC or AI acting as a teammate, opponent, or social character.'),
- 'Asynchronous social gaming':('Digital','Social interaction during games occurring at different times, such as message or photo exchanges.'),
- 'Cooperative gameplay':('In-person','Joint activity toward shared goals; possible in-person or online.'),
- 'Face-to-face social interaction':('In-person','Verbal and nonverbal exchanges during co-located play.'),
- 'Human–machine gameplay':('Human-machine','Playing with or against an automated agent; whether it counts as social varies by framework.'),
- 'Intergenerational tele-gaming':('Digital','Remote game-based interaction between different age groups.'),
- 'Multiplayer gaming':('Digital','More than one active player; does not itself establish the quality of social interaction.'),
- 'Social engagement during gameplay':('In-person','Observable game-related physical, verbal and affective responses.'),
- 'Social gaming':('Conceptual','Umbrella term used differently across the literature.'),
- 'Social playfulness':('Playfulness','Spontaneous reciprocal play that may not involve formal game rules.'),
- 'Social presence':('Conceptual','Experience or structure of being with others in physical or virtual contexts.'),
- 'Social outcomes':('Conceptual','Potential consequences such as connectedness or loneliness, distinct from game features.')}
-
-st.title('Social Gaming Research Explorer')
-st.caption('CSUN × Johns Hopkins | Working research thesaurus')
-st.info('Research status: These are paraphrases from supplied literature summaries, not independently verified extractions from full-text articles. Confirm author/year, wording, instruments, and page numbers before citation.')
-tab1,tab2,tab3,tab4=st.tabs(['Study library','Compare studies','A–Z terminology','Add / export'])
-with tab1:
- left,right=st.columns([2,1]); q=left.text_input('Search studies and operationalizations',placeholder='Try: chatbot, Go, human, loneliness...'); kinds=right.multiselect('Filter by category',list(COLORS),default=[])
- filtered=[s for s in studies if (not kinds or s['category'] in kinds) and (not q or q.lower() in ' '.join(str(v) for v in s.values()).lower())]
- st.caption(f'{len(filtered)} of {len(studies)} studies')
- for s in filtered:
-  with st.expander(f"{s['author']} · {s['title']}"):
-   st.markdown(f"<span style='color:{COLORS.get(s['category'],'#555')}'>{s['category']}</span>",unsafe_allow_html=True)
-   for label,key in [('Conceptual definition','definition'),('Game / setting','setting'),('Operationalization / evidence','operationalization'),('Outcomes / related measures','outcomes'),('Interpretive note','notes')]:st.markdown(f'**{label}**  \n{s[key]}')
-with tab2:
- names=[f"{s['author']} — {s['title']}" for s in studies]
- a,b=st.columns(2); ai=a.selectbox('First study',range(len(studies)),format_func=lambda i:names[i],index=0);bi=b.selectbox('Second study',range(len(studies)),format_func=lambda i:names[i],index=3)
- if ai==bi:st.warning('Choose two different studies to compare.')
- else:
-  for label,key in [('Definition','definition'),('Setting','setting'),('Operationalization','operationalization'),('Outcome','outcomes'),('Caveat','notes')]:
-   st.subheader(label);c1,c2=st.columns(2);c1.write(studies[ai][key]);c2.write(studies[bi][key])
-with tab3:
- termq=st.text_input('Find a term',placeholder='Search the alphabetical index')
- for term,(kind,definition) in sorted(terms.items()):
-  if termq.lower() in (term+' '+definition).lower():
-   st.markdown(f"<div style='border-left:5px solid {COLORS[kind]};padding:7px 14px;margin:8px 0'><strong>{term}</strong> <small>· {kind}</small><br>{definition}</div>",unsafe_allow_html=True)
- st.caption('This initial index contains 12 terms; it can be expanded as primary articles are reviewed.')
-with tab4:
- st.subheader('Add a study during your session')
- with st.form('new_study'):
-  author=st.text_input('Authors and year');title=st.text_input('Study title');kind=st.selectbox('Category',list(COLORS));definition=st.text_area('Conceptual definition');oper=st.text_area('Operationalization');setting=st.text_input('Game / setting');outcomes=st.text_input('Outcomes or related measures');notes=st.text_area('Notes / citation verification');submitted=st.form_submit_button('Add to session')
- if 'extra' not in st.session_state:st.session_state.extra=[]
- if submitted:
-  if author.strip() and title.strip():
-   st.session_state.extra.append(dict(author=author,title=title,category=kind,definition=definition,setting=setting,operationalization=oper,outcomes=outcomes,notes=notes,verified=False));st.success('Added for this session. Export below to preserve it.')
-  else:st.error('Author and title are required.')
- all_studies=studies+st.session_state.extra
- st.download_button('Download study database (CSV)',pd.DataFrame(all_studies).to_csv(index=False).encode('utf-8-sig'),'social_gaming_studies.csv','text/csv')
- st.download_button('Download study database (JSON)',json.dumps(all_studies,indent=2,ensure_ascii=False),'studies_updated.json','application/json')
- st.caption('New entries are temporary until exported. To publish them permanently, replace studies.json in your repository with the downloaded JSON file.')
+st.title('Social Gaming Thesaurus')
+st.caption('Interactive terminology and study explorer | CSUN × Johns Hopkins research collaboration')
+st.warning('Working research compilation: entries and source-to-instrument links come from supplied summaries, not independently verified original publications. Some UF labels may be related phrases rather than true synonyms. Validate before scholarly citation.')
+term_tab,study_tab,compare_tab,source_tab,add_tab=st.tabs(['A–Z Thesaurus','Study library','Compare studies','Original source material','Add / export'])
+with term_tab:
+ st.subheader('Explore all 18 headwords')
+ q=st.text_input('Search terms, scope notes, indicators, studies, and synonyms',key='term_search')
+ filtered=[e for e in entries if q.lower() in json.dumps(e,ensure_ascii=False).lower()]
+ st.caption(f'{len(filtered)} of {len(entries)} headwords')
+ for e in sorted(filtered,key=lambda x:x['term'].casefold()):
+  with st.expander(e['term']):
+   for code,label in [('SN','Scope note / definition'),('UF','Used for / proposed alternative terms'),('BT','Broader terms'),('NT','Narrower terms'),('RT','Related terms'),('OP','Operational indicators'),('IN','Instruments / paradigms'),('CS','Studies / authors')]:
+    st.markdown(f'**{code} — {label}**')
+    if e[code]:
+     for val in e[code]:st.write('• '+val)
+    else:st.caption('Not supplied')
+   with st.popover('See full original entry'):st.text(e['raw_entry'])
+ st.info('A–Z organization does not imply that every source-provided BT/NT/UF relationship has been validated. The original wording is retained for review.')
+with study_tab:
+ st.subheader('Study summaries')
+ q=st.text_input('Search authors, definitions, and operationalizations')
+ categories=st.multiselect('Categories',sorted(set(s['category'] for s in studies)))
+ subset=[s for s in studies if (not categories or s['category'] in categories) and q.lower() in json.dumps(s,ensure_ascii=False).lower()]
+ st.caption(f'{len(subset)} of {len(studies)} detailed study summaries. Additional authors are indexed within thesaurus entries.')
+ for s in subset:
+  with st.expander(f"{s['author']} — {s['title']}"):
+   st.caption(s['category'])
+   for label,key in [('Conceptual definition','definition'),('Setting','setting'),('Operationalization','operationalization'),('Outcomes','outcomes'),('Notes','notes')]:st.markdown(f'**{label}:** {s.get(key,"")}')
+with compare_tab:
+ st.subheader('Compare operationalizations')
+ names=[e['term'] for e in sorted(entries,key=lambda x:x['term'].casefold())]
+ c1,c2=st.columns(2)
+ a=c1.selectbox('First term',names,index=0)
+ b=c2.selectbox('Second term',names,index=min(1,len(names)-1))
+ ea=next(e for e in entries if e['term']==a);eb=next(e for e in entries if e['term']==b)
+ for code,label in [('SN','Scope note'),('BT','Broader'),('NT','Narrower'),('RT','Related'),('OP','Operational indicators'),('IN','Instruments'),('CS','Sources')]:
+  st.markdown('#### '+label)
+  ca,cb=st.columns(2)
+  ca.write('\n\n'.join(ea[code]) or 'Not supplied');cb.write('\n\n'.join(eb[code]) or 'Not supplied')
+with source_tab:
+ st.subheader('Preserved source materials')
+ st.write('Both complete uploaded text compilations are included without deleting overlapping material. The second contains additional discussions of human–machine gaming and earlier study-by-study comparisons.')
+ for name,label in [('source_master_thesaurus.txt','Complete 18-headword master thesaurus'),('source_additional_notes.txt','Earlier thesaurus, study summaries, and human–machine notes')]:
+  raw=(BASE/name).read_text(encoding='utf-8')
+  st.download_button('Download '+label,raw,file_name=name,mime='text/plain',key=name)
+  with st.expander('Read '+label):st.text_area(label,raw,height=340,key='view_'+name)
+with add_tab:
+ st.subheader('Export the full database')
+ st.download_button('Download all 18 entries (JSON)',json.dumps(entries,indent=2,ensure_ascii=False),file_name='thesaurus.json',mime='application/json')
+ st.download_button('Download all 18 entries (CSV)',pd.DataFrame([{**{'term':e['term']},**{k:' | '.join(e[k]) for k in ['SN','UF','BT','NT','RT','OP','IN','CS']}} for e in entries]).to_csv(index=False).encode('utf-8-sig'),file_name='thesaurus.csv',mime='text/csv')
+ st.download_button('Download study summaries (JSON)',json.dumps(studies,indent=2,ensure_ascii=False),file_name='studies.json',mime='application/json')
+ st.info('To permanently add or edit entries, update thesaurus.json in GitHub. The public website reads that file on restart/redeploy; edits in a visitor browser are not saved to a shared database.')

@@ -1,0 +1,472 @@
+1. Janssen et al. (2023) — A Digital Gaming Intervention to Strengthen the Social Networks of Older Dutch Adults...
+Definition / Conceptualization: Conceptualizes social gaming as an asynchronous, text- and photo-based mobile app intervention (SamenSpelen / Playing Together) designed to facilitate meaningful social interactions and reduce loneliness among older adults
+.
+Key Features: Gameplay is structured within group chats using digital adaptations of familiar or newly created games (such as Hangman or PhotoSnake)
+. Interaction is operationalized as exchanging text messages, emoticons, photos, and shared personal memories triggered by chatbot prompts, specifically aiming to foster intergenerational contact between older adults (aged 65+) and younger players (aged 18–64)
+.
+2. Iizuka et al. (2019) — Does social interaction influence the effect of cognitive intervention program? A randomized controlled trial using Go game
+Definition / Conceptualization: Focuses on the traditional strategic board game Go and defines social interaction specifically as face-to-face group learning and play
+.
+Key Features: Social interaction is operationalized as verbal and non-verbal communication, such as discussing tactics, asking instructors questions, reading an opponent's facial expressions, and sharing impressions or feedback after games
+. This is directly contrasted with non-social play, where participants play Go individually against a computer/tablet application without human contact
+.
+3. Miltiades & Thatcher (2017/2019) — Social engagement during game play in persons with Alzheimer’s...
+Definition / Conceptualization: Defines social engagement and interaction broadly as "any physical, verbal, or emotional response directly related to playing the game" during small-group tabletop board and tile games
+.
+Key Features: In the context of a tile-matching puzzle game played by persons with dementia, interaction includes making comments about the game, natural conversation between players and researchers, turn-prompting, offering rule reminders, assisting peers with tile placement, engaging in friendly competition, and clapping or celebrating wins together
+.
+4. Liu, Li, & Cai (2026) — The effects of video games on cognitive function in older adults with mild cognitive impairment: a meta-analysis
+Definition / Conceptualization: Defines video games broadly as electronic games played on digital platforms (consoles, PCs, handhelds, tablets) that rely on video displays as their primary visual output
+.
+Key Features: Focuses primarily on motion-sensing exergames (e.g., Nintendo Wii, Xbox Kinect) and tablet games as dual-task physical-cognitive interventions
+. Rather than defining interpersonal social dynamics, this article frames gaming by its combined motor and cognitive demands (such as visual search, rapid decision-making, and postural control)
+.
+5. Gonçalves et al. (2023) — Social gaming: A systematic review
+Definition / Conceptualization: Defines social gaming as "any gaming experience where the social outcomes (i.e., any aspect resulting from the interaction between two or more people) are framed as the main interest/focus"
+.
+Key Spectrum of Definitions: Based on a review of 263 publications, the authors summarize five main ways prior literature has conceptualized the topic
+:
+Social as Non-Solitary: Any experience where more than one person is active in the game (co-playing)
+.
+Social in Game Intent: Games specifically designed with social affordances or designed sociality to trigger player interaction
+.
+Social in Interactions: Defined by observed in-game actions, verbal/non-verbal communication, or external interactions beyond gameplay (including spectators)
+.
+Social in Outcomes: Any game experience that facilitates social closeness, relationship building, or social capital (even when playing with AI co-players)
+.
+Social Inherent to Gaming: The view that all digital games possess social and cultural affordances, framing social play on a continuous scale
+.
+6. Kaye (2021) — Understanding the “social” nature of digital games
+Definition / Conceptualization: Identifies a lack of consistent definition in the literature and proposes a 2x2 conceptual taxonomy grounded in Social Presence Theory
+.
+Two Key Dimensions:
+Type of Social Presence: Physical (offline, co-located) vs. Virtual (online)
+.
+Level of Behavioral Interdependence: High (task-dependent direct play/collaboration, such as multiplayer modes, voice chat, and guild activities) vs. Low (task-independent peripheral affordances, such as gaming forums, leaderboards, observing others, or being "alone together" in a shared world)
+.
+7. Maheux et al. (2025) — Adolescent social gaming as a form of social media: A call for developmental science
+Definition / Conceptualization: Defines social gaming as "digital gameplay involving online interaction with others," framing it as a distinct form of digital social media (differentiated from app-based platforms like Instagram or TikTok)
+.
+Key Features: Highlighted by specific digital affordances including customizability (avatars, user-generated content), shared structured activities (combining direct reciprocal interactions with parallel co-presence), synchronous/asynchronous multiplayer play, and meta-gaming ecosystems (e.g., Discord discussions or Twitch streaming)
+.
+8. Benjamini, Keisari, Golland, & Ben-David (2025) — Connecting screens: the effect of online playful interactions...
+Definition / Conceptualization: Draws a critical distinction between social play and social playfulness
+:
+Social Play: Structured, goal-oriented activities taking place within predefined settings (e.g., digital games, exergames, gamified platforms, console gaming)
+.
+Social Playfulness: An open-ended, imaginative, and spontaneous orientation toward real-time social interaction free from predefined goals
+. It is characterized by unpredictability (spontaneity and novelty), reciprocity (real-time mutual co-creation), and embodiment (sensorimotor expression, such as online theatrical improvisation or joint movement)
+.
+💡 Would you like me to synthesize these definitions into a structured comparison table, or draft a report on how these different definitions impact cognitive and social outcomes in older adults vs. adolescents?
+put all these operationalization in a table with authors and studies and then the different operationalizations
+
+
+Thoughts
+The operationalization and definition of social gaming, social play, and social interaction across the eight articles in your notebook are summarized in the table below:
+Study & Authors
+Target Context & Population
+Term Operationalized
+Definition & Specific Features
+Janssen et al. (2023)
+Remote mobile app intervention for Dutch older adults (aged 65+) and younger partners (18–64)
+Asynchronous Mobile Social Gaming
+Operationalized as an asynchronous, mobile app intervention (SamenSpelen) played within group chats
+. Interaction is defined through exchanging text messages, emoticons, photos (e.g., PhotoSnake), and shared personal memories prompted by a chatbot facilitator to foster intergenerational contact
+.
+Iizuka et al. (2019)
+Randomized controlled trial of Go board game lessons in community-dwelling older adults
+Face-to-Face Social Interaction
+Operationalized as face-to-face group learning and play featuring active verbal and non-verbal communication
+. Features include asking instructors questions, discussing tactics with peers, observing facial expressions, and sharing post-game feedback—directly contrasted with non-social, solo tablet gameplay
+.
+Miltiades & Thatcher (2017/2019)
+Tabletop tile-matching puzzle game intervention for adults with Alzheimer's disease
+Social Engagement / Interaction
+Defined broadly as "any physical, verbal, or emotional response directly related to playing the game"
+. Operationalized as turn-prompting ("It's your turn"), explaining rules, assisting peers with tile placement, engaging in lighthearted competition, conversing with peers/researchers, and clapping or congratulating winners
+.
+Liu, Li, & Cai (2026)
+Meta-analysis of digital game interventions for older adults with mild cognitive impairment (MCI)
+Video Games / Exergaming Interventions
+Defined broadly as electronic games played on digital platforms that rely on rasterized video displays for visual output
+. Operationalized primarily as motion-sensing exergames (e.g., Nintendo Wii, Xbox Kinect) and tablet games combining gross motor movements with continuous, cognitively demanding dual tasks (visual search, rapid decision-making, motor planning)
+.
+Gonçalves et al. (2023)
+Systematic review of 263 publications across human-computer interaction and game design
+Social Gaming (Literature Spectrum)
+Defined overall as "any gaming experience where the social outcomes... are framed as the main interest/focus"
+. Categorized into five distinct literature perspectives: (1) Non-Solitary (co-playing with >1 person), (2) Game Intent (designed social affordances), (3) Interactions (in-game actions, chat, external community), (4) Outcomes (fostering closeness/ties), and (5) Inherent to Gaming (all games hold social/cultural capital)
+.
+Kaye (2021)
+Theoretical review and conceptual mapping of digital game outcomes
+Social Gaming (2×2 Matrix)
+Critiques vague literature definitions and operationalizes social gaming via a 2×2 framework grounded in Social Presence Theory
+: (1) Type of Social Presence (Physical/Offline vs. Virtual/Online) and (2) Level of Behavioral Interdependence (High/Task-Dependent direct play vs. Low/Task-Independent peripheral affordances like forums, leaderboards, or "alone together" co-presence)
+.
+Maheux et al. (2025)
+Conceptual framework framing adolescent social gaming as a digital social media subclass
+Adolescent Social Gaming
+Defined as "digital gameplay involving online interaction with others"
+. Operationalized via unique social media affordances: avatar customizability, shared structured activities (blending reciprocal dialogue with parallel play), synchronous/asynchronous multiplayer modes, leaderboards, virtual trading, and meta-gaming ecosystems (Twitch streaming, Discord text/voice chat)
+.
+Benjamini et al. (2025)
+Cross-over trial of online playful interactions vs. routine control activities in older adults
+Social Play vs. Social Playfulness
+Distinguishes between (1) Social Play (structured, goal-oriented gameplay in predefined settings like serious games or exergames) and (2) Social Playfulness (open-ended, imaginative, spontaneous dyadic interactions free from predefined goals)
+. Operationalized via 15-minute Zoom theatrical improvisation featuring unpredictability, reciprocity, and sensorimotor embodiment
+.
+💡 Would you like me to synthesize these operationalizations into a formal research synthesis report or create a visual diagram comparing the physical vs. virtual intervention models?
+Today • 12:15 PM
+Create an in depth thasuasoures on how social gaming was opertionolized
+
+
+Thoughts
+Thesaurus of Social Gaming Operationalizations
+This thesaurus systematizes the multi-disciplinary operationalizations of "social gaming", "social play", and "in-game social interaction" across cyberpsychology, Human-Computer Interaction (HCI), media studies, behavioral medicine, and clinical psychology.
+Rather than a unified monolithic construct, the literature operationalizes social gaming across five overarching operational clusters:
+Platform-Embedded Social Network Games (SNGs & Mobile SNGs)
+Social Casino Games (SCGs) and Simulated Gambling
+Psychosocial Motivations, Social Capital, and Clinical Multiplayer Gaming
+HCI Interaction Design, Spatial Sociality, and Developmental Affordances
+Empirical Interventions, Tabletop Co-Play, and Assistive Social Playfulness
+Controlled Vocabulary Index & Structural Hierarchy
+SN (Scope Note): Conceptual scope and theoretical grounding.
+UF (Used For / Synonyms): Equivalent, overlapping, or alternative terminology.
+BT (Broader Terms): Hierarchical parent constructs.
+NT (Narrower Terms): Sub-components, subtypes, and operational facets.
+RT (Related Terms): Adjacent, mediating, or contrasting constructs.
+OP (Operational Indicators & Metrics): Empirical telemetry, behaviors, and observable variables.
+IN (Measurement Instruments & Paradigms): Validated scales, inventories, and experimental setups.
+CS (Core Studies & Authors): Associated literature from the notebook corpus.
+1. Platform-Embedded Social Network Gaming
+Headword: Social Network Game (SNG / Mobile SNG)
+SN: Video game software integrated structurally with Social Network Services (SNS) platforms and mobile operating systems, utilizing pre-existing real-world social graphs to drive player acquisition, viral loops, and ongoing retention.
+UF: Asynchronous Social Gaming; Casual Social Gaming; Social Platform Games; Connective Commodity Games; Mobile Social Network Games (MSNGs).
+BT: Digital Games; Social Media Services.
+NT: Asynchronous Gifting; Leaderboard Benchmarking; Life/Energy Request Loops; Social Invites.
+RT: Freemium Business Models; Microtransactions; Time-Gated Progression; Platform Capitalism.
+OP (Operational Indicators):
+Social Graph Activation: Number of external platform friends connected; invitations sent to non-playing platform contacts.
+Asynchronous Resource Exchange: Frequency of daily gifting (sending/receiving "lives", "energy", extra moves); fulfillment of peer help requests.
+Social Competition Telemetry: Asynchronous leaderboard rank tracking; frequency of inspecting friends' stage progression on a shared map interface.
+Socio-Commercial Behaviors: Frequency and monetary volume of in-app microtransactions to bypass social wait-gates or fulfill social gift reciprocity.
+IN (Measurement Instruments):
+Extended Technology Acceptance Model (TAM) & UTAUT2 inventories (measuring Social Influence, Subjective Norms).
+Flow Experience Scales (measuring Perceived Enjoyment, Concentration, and Telepresence).
+Uses and Gratifications Theory (UGT) Questionnaires (social inclusion and pastime motives).
+CS (Core Studies): Wang & Li (2020); Nieborg (2015, Crushing Candy); Al-Emran et al.; Abbasi et al.; Holebeek et al.
+2. Simulated Gambling and Virtual Risk-Taking
+Headword: Social Casino Game (SCG)
+SN: Free-to-play digital gaming applications accessible via social media or mobile apps that visually, acoustically, and structurally replicate casino gambling (slots, poker, roulette) without paying out real-world cash prizes.
+UF: Simulated Gambling; Gambling-Like Social Gaming; Non-Monetary Casino Gaming; Converged Social Gaming.
+BT: Free-to-Play Video Games; Gambling Media.
+NT: Social Slots; Social Poker; Social Sports Betting; Virtual Currency Simulators.
+RT: Monetization Convergence; Microtransactions; Loot Boxes; Real-Money Gambling Migration.
+OP (Operational Indicators):
+Simulated Gambling Volume: Daily/weekly session frequency, minutes spent per session, and total lifetime plays of slot or card simulations.
+Virtual Financial Outlay: Real currency expenditure dedicated to purchasing non-cashable virtual credits/coins.
+Platform Dissemination: Engagement with social casino advertisements targeted via behavioral advertising on social media feeds.
+Algorithmic Exposure: Player exposure to dynamic game balancing (artificially inflated payout odds compared to commercial gambling mathematics).
+Migration / Gateway Metric: Percentage of players initiating cash-based gambling on commercial gambling sites following exposure to SCGs.
+IN (Measurement Instruments):
+Gambling Related Cognitions Scale (GRCS) adapted for simulated contexts (illusions of control, predictive control).
+South Oaks Gambling Screen (SOGS) / Problem Gambling Severity Index (PGSI) applied to track cross-migration.
+Longitudinal Behavioral Tracking and Transactional Ledger Logging.
+CS (Core Studies): Gainsbury et al. (2014, 2016); King & Delfabbro (2016); Kim et al. (2016, 2017); Abarbanel & Gainsbury (2020).
+3. Psychosocial Motivations & Online Social Capital
+Headword: Social Gaming Motivation
+SN: The psychological drive to initiate and sustain digital gameplay for the purpose of interpersonal interaction, communication, community belonging, and collective achievement.
+UF: Player Social Orientation; In-Game Interpersonal Drive; Social Play Motives.
+BT: Motivation to Game; Self-Determination Theory (Relatedness).
+NT:
+Socializing Motive: The desire to engage in casual conversation, meet new people, and exchange banter.
+Relationship Motive: The drive to establish deep, meaningful, and emotionally intimate personal bonds with in-game contacts.
+Teamwork Motive: The orientation toward coordinated, collaborative group play, mutual assistance, and shared objective achievement.
+RT: Escapism; Achievement Motive; Immersion; Internet Gaming Disorder (IGD).
+OP (Operational Indicators):
+Standardized psychometric Likert scale responses assessing social desire versus achievement/escapism drives.
+Self-reported prioritization of guild/clan attendance and collaborative matches over individual gameplay.
+IN (Measurement Instruments):
+Yee’s Motivation of Play Inventory (isolating the Social Component and subcomponents: Socializing, Relationship, Teamwork).
+Motives for Online Gaming Questionnaire (MOGQ — Social Motive subscale).
+CS (Core Studies): Yee (2006); Wang & Cheng (2022) / Cheng et al. (2022); Billieux et al.
+Headword: In-Game Social Capital
+SN: The accumulation of actual or potential psychosocial resources embedded within, available through, and derived from a player's network of digital gaming contacts.
+UF: Virtual Social Capital; Online Gamer Network Resources.
+BT: Social Capital; Network Theory.
+NT:
+Bridging In-Game Capital: Outward-looking networks composed of diverse, heterogeneous, weak ties that provide exposure to novel perspectives, information, and broad community acceptance.
+Bonding In-Game Capital: Inward-looking networks characterized by strong, emotionally intimate ties providing substantive emotional support, psychological safety, and reciprocal loyalty.
+RT: Loneliness; Offline Social Support; Social Network Analysis (Centrality, Density); Social Alienation.
+OP (Operational Indicators):
+Structural network metrics: In-degree/out-degree centrality within game guilds; sociometric density of gamer friend networks.
+Perceived resource availability: Likert ratings evaluating the perceived presence of peers who can provide emotional comfort (bonding) or access to new resources/perspectives (bridging).
+Compensatory index: Ratio of online social capital to offline network support in alienated individuals.
+IN (Measurement Instruments):
+Williams’ Internet Social Capital Scale (ISCS — Online Bridging and Online Bonding subscales).
+Social Network Analysis (SNA) graph extraction (Gephi / NodeXL network modeling of in-game guilds).
+CS (Core Studies): Domahidi (2018); Xian et al. (2020); Shen & Chen (2015); Trepte, Reinecke, & Juechems (2012).
+Headword: Disordered Social Obligation
+SN: The clinical operationalization wherein in-game social relationships and clan expectations transform into rigid, compulsory interpersonal demands that override self-regulation and sustain problematic gaming behavior.
+UF: Clan Pressure; Guild Obligation Compulsion; Pathological In-Game Loyalty.
+BT: Internet Gaming Disorder (IGD); Behavioral Addiction.
+RT: Fear of Missing Out (FoMO); Synchronous Raiding; Relationship Motive Vulnerability.
+OP (Operational Indicators):
+Self-reported guilt or anxiety experienced when unable to log in for scheduled team matches or raids.
+Continued gameplay despite acute negative life consequences (academic failure, occupational impairment, sleep deprivation) explicitly justified by a duty to avoid letting team members down.
+IN (Measurement Instruments):
+Lemmens Internet Gaming Disorder Scale (IGD-9).
+Ten-Item Internet Gaming Disorder Test (IGDT-10).
+DSM-5 / ICD-11 Diagnostic Symptom Criteria (Criteria: Loss of control, Prioritization of gaming over life interests, Continued use despite negative consequences).
+CS (Core Studies): Wang & Cheng (2022); Stevens et al. (2021); Ho et al. (2025).
+4. HCI Architecture, Spatiality & Developmental Affordances
+Headword: Social Presence in Gaming (Kaye’s 2×2 Matrix)
+SN: A structural taxonomy operationalizing social gaming along two intersecting continuum axes: the physical/virtual nature of player presence and the degree of behavioral/task interdependence.
+UF: Spatial-Behavioral Game Classification; Structural Game Sociality.
+BT: Human-Computer Interaction (HCI); Social Presence Theory.
+NT:
+Physical / High Interdependence: Co-located direct cooperative/competitive play ("couch multiplayer", split-screen console play, tabletop).
+Physical / Low Interdependence: Co-located parallel play ("couch co-presence", playing independent mobile/handheld games in the same physical room).
+Virtual / High Interdependence: Online synchronous cooperative play (MMORPG raids, MOBA matches, tactical shooter squads with voice coordination).
+Virtual / Low Interdependence: Online parallel play ("alone together" dynamics, viewing global leaderboards, asynchronous bulletin boards, peripheral spectating).
+RT: Task-Dependent Coordination; Peripheral Sociality; Ambient Co-Presence.
+OP (Operational Indicators):
+Spatial location of players (co-located physical room vs. remote IP network connection).
+Structural task coupling (game mechanics requiring joint inputs/simultaneous problem-solving vs. games where individual performance is uncoupled from peers).
+IN (Measurement Instruments):
+Networked Minds Social Presence Inventory.
+Spatial Telepresence Questionnaires.
+CS (Core Studies): Kaye (2021); Gonçalves et al. (2023).
+Headword: Adolescent Social Gaming (Gaming-as-Social-Media)
+SN: Digital gaming operationalized as an interactive youth communication platform and developmental social ecology that integrates structured ludic activities with identity exploration and peer relationship maintenance.
+UF: Digital Youth Sociality; Metaverse Play; Teen Co-Gaming Ecology.
+BT: Digital Social Media; Developmental Affordances.
+NT: Avatar Identity Projection; In-Game Hangout Spaces; Meta-Gaming Communication Channels; Asynchronous Micro-Trading.
+RT: Peer Connectedness; Cyberbullying; Social Norm Conformity; Digital Status Signalling.
+OP (Operational Indicators):
+Customization Behaviors: Time and virtual currency invested in customizing avatars and virtual skins as self-expression and status displays.
+Affordance Utilization: Proportion of session time dedicated to non-goal-directed socialization (hanging out in digital lobbies, chatting in Roblox or Fortnite creative spaces).
+Meta-Gaming Integration: Concurrent utilization of third-party voice and community servers (Discord, Twitch, Reddit) while gaming.
+IN (Measurement Instruments):
+Digital Social Affordance Inventories (customizability, accessibility, co-presence).
+Peer Relationship Quality Questionnaires (Inventory of Parent and Peer Attachment - IPPA adapted).
+Identity Exploration in Virtual Worlds Scales.
+CS (Core Studies): Maheux et al. (2025); Nesi et al. (2024); Subrahmanyam & Smahel.
+Headword: Gonçalves et al.'s 5-Tier Spectrum of Sociality
+SN: A systematic meta-categorization of how scientific literature frames and operationalizes "the social" in gaming across 263 empirical and design studies.
+BT: Research Methodology; Systematic Categorization.
+NT:
+Social as Non-Solitary: Any gameplay state involving more than one active human participant (co-play).
+Social in Game Intent: Games explicitly designed with structural social affordances, communication channels, or mechanics engineered to compel social interaction.
+Social in Interactions: Measured strictly by observable in-game or external interactions (chat logs, gestures, verbal exchanges, spectating).
+Social in Outcomes: Evaluated by psychosocial consequences (relationship formation, bonding, reduced isolation, social skill acquisition), even when playing with automated non-player characters (NPCs).
+Social Inherent to Gaming: The philosophical conceptualization that all games are inherently socio-cultural artifacts embedded in cultural capital, making solitude merely a specialized mode of social play.
+CS (Core Studies): Gonçalves et al. (2023).
+5. Clinical, Cognitive & Assistive Intervention Paradigms
+Headword: Asynchronous Intergenerational Tele-Gaming
+SN: An applied operationalization of social gaming designed as a clinical/behavioral intervention to strengthen social network structures, combat loneliness, and facilitate intergenerational social contact between older adults and younger relatives or community members.
+UF: Mobile Assistive Co-Play; Chatbot-Facilitated Social Gaming; Remote Network Intervention.
+BT: Serious Games; Digital Health Interventions.
+NT: Asynchronous Digital Word Games (Hangman); Photo-Sharing Memory Games (PhotoSnake); Chatbot-Prompted Storytelling.
+RT: De-loneliness Interventions; Intergenerational Contact Hypothesis; Social Network Ties.
+OP (Operational Indicators):
+Message Density: Daily volume of asynchronous text messages, emoticons, and personal photographs sent within group chats.
+Intergenerational Exchange: Frequency of biographical memories and personal stories shared in response to in-game chatbot prompts.
+Process Usability: Qualitative and quantitative adherence metrics among participants aged 65+.
+IN (Measurement Instruments):
+De Jong Gierveld 6-Item Loneliness Scale (evaluating emotional and social loneliness).
+Lubben Social Network Scale (LSNS-6).
+SamenSpelen Mobile Application Platform Telemetry.
+CS (Core Studies): Janssen et al. (2023).
+Headword: Face-to-Face Strategic Tabletop Play
+SN: Social interaction operationalized as physical, co-located group instruction and competitive/cooperative play using traditional board games, evaluated as an active non-pharmacological cognitive-enhancement mechanism.
+UF: In-Person Board Game Interaction; Co-Located Strategic Gaming; Traditional Play Interaction.
+BT: Cognitive Intervention Programs; Tabletop Gaming.
+NT: Instructor-Led Tactical Q&A; Opponent Face-Reading; Post-Game Reflective Analysis (Kanso-sen).
+RT: Executive Function; Cognitive Reserve; Social Isolation Reduction.
+OP (Operational Indicators):
+Active participation in face-to-face peer matchplay versus solo tablet application play (control condition).
+Observable communication telemetry: frequency of verbal advice, tactical discussion, questioning of instructors, and non-verbal social cue exchange.
+IN (Measurement Instruments):
+Japanese Version of the Montreal Cognitive Assessment (MoCA-J).
+Kohs Block Design Test.
+Digit Span & Trail Making Test (TMT-A / TMT-B).
+Go Game Randomized Controlled Trial Paradigm.
+CS (Core Studies): Iizuka et al. (2019).
+Headword: Dementia-Specific Tabletop Social Engagement
+SN: Observable physical, verbal, and affective behaviors directly elicited by small-group puzzle or tile game play among individuals with neurocognitive disorders (e.g., Alzheimer’s disease).
+UF: Dementia Game Engagement; Assisted Group Play; Cognitive Engagement in Dementia.
+BT: Non-Pharmacological Dementia Therapy; Assistive Leisure.
+NT: Turn-Prompting; Peer-Scaffolding; Affective Celebrations; Verbal Game Discourse.
+RT: Agitation Reduction; Quality of Life in Dementia; Person-Centered Care.
+OP (Operational Indicators):
+Task-Directed Verbalizations: Utterances instructing peers ("It's your turn"), discussing rules, or assessing valid moves.
+Physical Scaffolding: Physical gestures assisting a neighbor with piece placement or spatial orientation.
+Affective Signaling: Spontaneous laughter, clapping, cheering, and congratulations directed toward fellow players.
+IN (Measurement Instruments):
+Menorah Park Engagement Scale (MPES — measuring constructive, passive, and non-engagement).
+Video-Coded Behavioral Interaction Analysis (frequency counts per 10-minute game intervals).
+CS (Core Studies): Miltiades & Thatcher (2017/2019).
+Headword: Social Playfulness vs. Social Play
+SN: A conceptual dichotomy distinguishing structured, rules-based game systems (social play) from spontaneous, unscripted, dyadic creative improvisation (social playfulness) in mediated remote environments.
+UF: Online Theatrical Playfulness; Mediated Spontaneous Playfulness.
+BT: Play Theory; Socio-Emotional Tele-Interventions.
+NT:
+Social Play (Structured): Goal-directed games characterized by explicit win/loss conditions, formal rules, point architectures, and digital avatars (e.g., exergames, board games, video games).
+Social Playfulness (Unscripted): Spontaneous, non-goal-oriented dyadic encounters characterized by novelty/unpredictability, real-time reciprocal co-creation, and sensorimotor embodiment.
+RT: Drama Therapy; Online Tele-Presence; Dyadic Synchrony.
+OP (Operational Indicators):
+Video-coded operational indices of unpredictability (breaking predictable conversation patterns, generating absurd or whimsical scenarios).
+Reciprocity metrics (improvisational "Yes, and..." conversational turn-taking, mirroring partner expressions).
+Embodiment metrics (using physical gestures, dynamic facial expressions, and vocal modulations directly into the webcam).
+IN (Measurement Instruments):
+Short-Form UCLA Loneliness Scale.
+Profile of Mood States (POMS).
+15-Minute Zoom-Mediated Dyadic Playfulness Behavioral Coding Protocol.
+CS (Core Studies): Benjamini, Keisari, Golland, & Ben-David (2025).
+Headword: Dual-Task Exergaming Interaction
+SN: The operationalization of digital gameplay as simultaneous physical gross-motor exertion and demanding cognitive challenge (motion-sensing console play), where sociality manifests either as co-located active co-play or mediated group competition.
+UF: Active Video Games (AVGs); Motion-Sensing Games; Physical-Cognitive Exergaming.
+BT: Exergames; Digital Rehabilitation.
+NT: Motion-Controlled Dance/Rhythm Games; Virtual Sports Simulators; Balance Board Tasks.
+RT: Executive Function Enhancement; Fall Prevention; Mild Cognitive Impairment (MCI).
+OP (Operational Indicators):
+Sensorimotor tracking: Center-of-pressure stability, step cadence, and upper-limb range of motion captured via infrared cameras or floor mats.
+Dual-task cognitive load: Reaction time, visual search accuracy, and inhibition during continuous physical exertion.
+IN (Measurement Instruments):
+Mini-Mental State Examination (MMSE).
+Berg Balance Scale (BBS) & Timed Up and Go (TUG) tests.
+Motion-sensing platforms (Nintendo Wii Fit, Xbox Kinect, interactive stepping mats).
+CS (Core Studies): Liu, Li, & Cai (2026).
+Comparative Operationalization Summary
+Construct Headword
+Operational Core
+Primary Behavioral Metrics
+Key Instruments / Paradigms
+Social Network Game (SNG)
+Platform & social graph convergence
+Gifting telemetry, invite frequency, leaderboard checking
+TAM, UTAUT2, Flow Scales
+Social Casino Game (SCG)
+Simulated gambling without cash payout
+Virtual coin spending, session time, real-money gambling migration
+GRCS, SOGS, Longitudinal Ledgers
+Social Gaming Motivation
+Interpersonal drive (Yee's model)
+Desire to chat, build deep bonds, or execute tactical teamwork
+Yee’s Motivation Inventory, MOGQ
+In-Game Social Capital
+Network resources (Williams' model)
+Bridging (weak ties) vs. bonding (strong emotional ties)
+Internet Social Capital Scale (ISCS), SNA
+Disordered Social Obligation
+Compulsory clan/guild loyalty
+Compulsive play duration driven by duty to peers
+IGD-9, IGDS9-SF, DSM-5 Criteria
+Presence in Gaming (Kaye)
+Physical vs. virtual × Task dependence
+Co-location status, task interdependence, shared room
+2×2 Matrix, Social Presence Scales
+Adolescent Social Gaming
+Gaming as interactive social media
+Avatar customization, hangout lobbies, Discord integration
+Digital Affordance Scales, IPPA
+Spectrum of Sociality (Gonçalves)
+5-tier conceptual literature continuum
+Non-solitary, Intent, Interactions, Outcomes, Inherent
+263-study systematic review matrix
+Intergenerational Tele-Gaming
+Asynchronous family group-chat play
+Message density, photo sharing, memory narrative exchanges
+De Jong Gierveld Scale, LSNS-6
+Face-to-Face Tabletop Play
+Co-located strategic group lessons
+In-person tactical talk, Q&A, opponent face-reading
+MoCA-J, Kohs Block Test, Go RCT
+Dementia Social Engagement
+Observable verbal/affective engagement
+Turn-prompting, piece assistance, clapping/laughing
+Menorah Park Engagement Scale (MPES)
+Social Playfulness
+Spontaneous, non-goal-oriented play
+Reciprocity ("Yes, and..."), unpredictability, embodiment
+POMS, Dyadic Improvisation Coding
+Dual-Task Exergaming
+Simultaneous motor & cognitive exertion
+Sensorimotor tracking, reaction time during exertion
+MMSE, TUG, Nintendo Wii / Xbox Kinect
+💡 Would you like me to export this thesaurus as a formatted reference document, or synthesize these entries into an operational framework to guide the design of an upcoming empirical study?
+what about those that are social gaming with human to machine
+
+
+Thoughts
+Across the articles in your notebook, human-to-machine interaction—involving artificial intelligence (AI), non-player characters (NPCs), computer-controlled agents, robots, and automated chatbots—is addressed through several distinct operational frameworks and experimental paradigms:
+1. The Theoretical Framing: "Social in the Outcomes"
+In their systematic review of 263 publications, Gonçalves et al. (2023) note that while some researchers define social gaming strictly as "non-solitary" human play, a substantial body of work defines social gaming by whether it produces social outcomes
+. Under this conceptualization:
+Artificial Social Entities as Co-Players: Literature in this category argues that as soon as an artificial social entity or bot is introduced into gameplay, fundamental social-psychological dynamics are activated—including evaluation apprehension, social learning, and emotional contagion
+.
+NPCs and Solitary Sociality: Even single-player gaming or interaction with NPCs can be operationalized as having a social facet because it generates conversational topics, shared cultural capital, and feelings of social connection or shared achievement
+.
+Artificial Partners as a Social Role: Gonçalves et al. explicitly classify the "artificial partner" (identified in 3.4% of the reviewed studies) as a recognized social gaming role alongside traditional co-players, spectators, and mediators
+.
+2. Operationalizing Human vs. Computer Agents (Psychophysiology and Flow)
+A prominent cluster of empirical studies specifically operationalizes human-to-machine gameplay by comparing it directly against human-to-human play
+:
+Psychological & Physiological Discrepancies: As reviewed by Kaye (2021), experimental studies systematically show that human co-players elicit significantly stronger effects than computer-controlled agents across perceived social presence, positive emotions, physiological arousal, and flow
+.
+Perceptions of "Humanness" & Competence: Studies exploring human–AI collaboration (such as Ashktorab et al., 2020; Wehbe et al., 2017; Bowman & Banks, 2019) measure how players evaluate machine partners on dimensions of perceived intelligence, likeability, creativity, empathy, and rapport
+. Players consistently use more positive descriptors and report higher rapport when they believe their partner possesses human agency rather than automated programming
+.
+3. Deception and "Simulated Group Experience" Paradigms
+To isolate the psychological effect of perceived sociality from actual human responsiveness, researchers frequently operationalize machine play through experimental deception
+:
+Machine Agents Disguised as Humans: In multiple controlled laboratory studies, participants play alone against or alongside AI algorithms while being told they are interacting with another human over a network
+. This tests whether the mere belief in a human co-player is sufficient to induce social presence and competitive/cooperative arousal
+.
+Humans Disguised as Machine Agents: Conversely, other protocols lead players to believe their partner is an AI or bot when they are actually paired with a human confederate, allowing researchers to measure how anti-bot biases or perceptions of artificiality depress feelings of affiliation
+.
+4. Computer-Controlled Play as a Non-Social Baseline Control
+In clinical and cognitive trials, human-to-machine play is frequently operationalized as the definitional opposite of social interaction
+:
+The Go Game Randomized Controlled Trial (Iizuka et al., 2019): The researchers explicitly designed the control group ("Non-face-to-face group") around solitary tablet gameplay against an automated computer application
+. By keeping the strategic game rules identical between conditions, playing against the machine served as the experimental contrast to isolate what in-person verbal exchanges, tactile board feedback, and reading an opponent's facial expressions contributed to cognitive outcomes
+.
+5. Chatbots and AI as Automated Social Mediators
+Finally, human-to-machine mechanics are operationalized not just as opponents or teammates, but as automated facilitators of interpersonal connection
+:
+Chatbot Facilitators in Digital Interventions (Janssen et al., 2023): In the SamenSpelen mobile app, an automated chatbot acts as an algorithmic facilitator within group chats
+. The machine introduces game rules, delivers conversational prompts, and serves as an automated "conversation starter" to scaffold memories, photo sharing (PhotoSnake), and reciprocal dialogue between older adults and younger family members
+.
+Social Chatbots as Surrogates for Friendship (Latikka et al., 2025): Recent survey research expands this to evaluate standalone conversational AI agents (social chatbots), examining how using machines as relational surrogates correlates with psychological distress, loneliness, and self-esteem across different age groups
+.
+Summary Matrix: Human-to-Machine in the Social Gaming Corpus
+Operational Approach
+Machine Role
+Measured Variables / Constructs
+Key Findings in the Corpus
+Artificial Partner / Entity
+Co-player, Bot, or Companion Robot
+Evaluation apprehension, social learning, emotional contagion
+Artificial partners can trigger real social-psychological outcomes, though usually weaker than human ties
+.
+Comparative Agent Studies
+Computer-controlled agent vs. Human partner
+Social presence, physiological arousal, flow, perceived intelligence
+Human partners consistently generate greater physiological compliance, presence, and positive affect than bots
+.
+Simulated Presence (Deception)
+Covert AI simulating human group play
+Perceived co-presence, immersion, competitive drive
+Demonstrates that the cognitive belief in a human partner heavily dictates player engagement
+.
+Non-Social Control Baseline
+Tablet app / Computer software opponent
+Working memory, executive function, MoCA-J scores
+Solitary play against a computer isolates cognitive stimulation from interpersonal communication
+.
+Algorithmic Facilitator
+Chatbot game master / conversation starter
+Text message volume, memory sharing, intergenerational contact
+Machines can act as neutral mediators that prompt and structure human-to-human social closeness
+.
