@@ -1,0 +1,90 @@
+[
+  {
+    "author": "Gonçalves et al. (2023)",
+    "title": "Social gaming: A systematic review",
+    "category": "Conceptual",
+    "definition": "Sociality can be located in co-play, design intent, interactions, outcomes, or the cultural nature of gaming.",
+    "setting": "Review of gaming literature; not one intervention.",
+    "operationalization": "Five perspectives: non-solitary; social intent in design; social interactions; social outcomes; sociality inherent to gaming.",
+    "outcomes": "Social closeness and social capital appear as potential outcomes, not universal participation criteria.",
+    "notes": "Use as a conceptual map, not as a single empirical operational definition.",
+    "verified": false
+  },
+  {
+    "author": "Kaye (2021)",
+    "title": "Understanding the “social” nature of digital games",
+    "category": "Conceptual",
+    "definition": "Social experience varies by type of presence and behavioral interdependence.",
+    "setting": "Digital games, physical and virtual settings.",
+    "operationalization": "2 x 2 taxonomy: physical vs. virtual presence crossed with high vs. low task interdependence.",
+    "outcomes": "Social presence is a related construct.",
+    "notes": "A taxonomy of dimensions, not a single behavioral measurement protocol.",
+    "verified": false
+  },
+  {
+    "author": "Janssen et al. (2023)",
+    "title": "A digital gaming intervention to strengthen the social networks of older Dutch adults",
+    "category": "Digital",
+    "definition": "Asynchronous game-based exchanges can facilitate meaningful contact across generations.",
+    "setting": "SamenSpelen mobile group-chat games with older and younger participants.",
+    "operationalization": "Participation in text/photo-based games; exchange of messages, emoticons, photos, and personal memories prompted by a chatbot.",
+    "outcomes": "Loneliness and social network strength are outcomes; app engagement may be a process measure.",
+    "notes": "Chatbot facilitates human-human interaction; it is not necessarily an AI co-player.",
+    "verified": false
+  },
+  {
+    "author": "Iizuka et al. (2019)",
+    "title": "Does social interaction influence the effect of cognitive intervention program? A randomized controlled trial using Go game",
+    "category": "In-person",
+    "definition": "Social interaction is face-to-face group learning and play.",
+    "setting": "Go lessons and play versus individual computer/tablet Go.",
+    "operationalization": "Human contact, tactical discussion, questions, nonverbal cues, and post-game feedback; contrast with solo computer condition.",
+    "outcomes": "Cognitive test performance is an outcome.",
+    "notes": "The human-versus-computer condition is a manipulation; not every listed behavior was necessarily quantified separately.",
+    "verified": false
+  },
+  {
+    "author": "Miltiades & Thatcher (2017/2019)",
+    "title": "Social engagement during game play in persons with Alzheimer’s disease",
+    "category": "In-person",
+    "definition": "Engagement includes physical, verbal, and emotional responses related to play.",
+    "setting": "Small-group tabletop tile/puzzle games among people with dementia.",
+    "operationalization": "Game-related comments, prompting turns, rule reminders, helping others, conversation, laughter, and celebration.",
+    "outcomes": "Social engagement is the focal observed behavior; other clinical outcomes should be distinguished.",
+    "notes": "Confirm publication year and exact coding instrument in the primary paper.",
+    "verified": false
+  },
+  {
+    "author": "Maheux et al. (2025)",
+    "title": "Adolescent social gaming as a form of social media",
+    "category": "Digital",
+    "definition": "Digital gameplay with online interaction with others.",
+    "setting": "Online multiplayer, parallel co-presence, avatars and metagaming communities.",
+    "operationalization": "Online reciprocal interaction, shared activities, synchronous/asynchronous play, customization, Discord/Twitch-related activity.",
+    "outcomes": "Peer relationship quality may be an outcome or correlate.",
+    "notes": "A conceptual perspective; listed affordances are not necessarily all measures used in one empirical study.",
+    "verified": false
+  },
+  {
+    "author": "Benjamini et al. (2025)",
+    "title": "Connecting screens: the effect of online playful interactions",
+    "category": "Playfulness",
+    "definition": "Distinguishes rule-based social play from spontaneous, reciprocal social playfulness.",
+    "setting": "Remote dyadic Zoom improvisation.",
+    "operationalization": "Spontaneity, reciprocal co-creation, gestures and vocal/facial expression in brief playful interactions.",
+    "outcomes": "Mood and loneliness are outcomes.",
+    "notes": "Playfulness is adjacent to gaming, not interchangeable with structured games.",
+    "verified": false
+  },
+  {
+    "author": "Liu, Li, & Cai (2026)",
+    "title": "The effects of video games on cognitive function in older adults with mild cognitive impairment: a meta-analysis",
+    "category": "Context",
+    "definition": "Defines video games broadly as electronic games; social interaction is not central to the supplied description.",
+    "setting": "Exergames and tablet-based cognitive/physical games.",
+    "operationalization": "Motor-cognitive tasks, reaction time, movement and balance; no clear direct social-gaming indicator in supplied summary.",
+    "outcomes": "Cognition and physical function.",
+    "notes": "Retain as contextual gaming literature, not a direct operationalization of social gaming.",
+    "verified": false
+  }
+]
